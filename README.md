@@ -15,8 +15,10 @@ I'm a Computer Science student at the University of Wroclaw, driven by a passion
   - **Databases**: SQLite  
   - **Frameworks**: .NET  
   - **Concepts**: Object-Oriented Programming (OOP), Software Design, Game Architecture  
-  - **Version Control & Collaboration**: Git, GitHub  
-  - **Soft Skills**: Teamwork, Creative Problem-Solving, Communication  
+  - **Development Methodologies**: Agile, Scrum, Software Development Life Cycle (SDLC)  
+  - **Tools**: Git, GitHub, Jira, Confluence  
+  - **Version Control & Collaboration**: Git, GitHub, Conventional Commits  
+  - **Soft Skills**: Teamwork, Creative Problem-Solving, Communication
 
 - 📚 **Education**:  
   - *University of Wroclaw, Poland*  
@@ -51,6 +53,8 @@ I once prototyped a game in Unreal Engine 5 over a weekend to test a unique game
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
 </div>
 
 ###
