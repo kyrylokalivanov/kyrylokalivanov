@@ -18,7 +18,7 @@ I'm a Computer Science student at the University of Wroclaw, driven by a passion
   - **Development Methodologies**: Agile, Scrum, Software Development Life Cycle (SDLC)  
   - **Tools**: Git, GitHub, Jira, Confluence  
   - **Version Control & Collaboration**: Git, GitHub, Conventional Commits  
-  - **Soft Skills**: Teamwork, Creative Problem-Solving, Communication
+  - **Soft Skills**: Teamwork, Creative Problem-Solving, Communication, Stress Resistance
 
 - 📚 **Education**:  
   - *University of Wroclaw, Poland*  
