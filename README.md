@@ -16,7 +16,7 @@ I'm a Computer Science student at the University of Wroclaw, driven by a passion
   - **Frameworks**: .NET  
   - **Concepts**: Object-Oriented Programming (OOP), Software Design, Game Architecture  
   - **Development Methodologies**: Agile, Scrum, Software Development Life Cycle (SDLC)  
-  - **Tools**: Git, GitHub, Jira, Confluence  
+  - **Tools**: Git, GitHub, Jira, Confluence, Trello, Notion  
   - **Version Control & Collaboration**: Git, GitHub, Conventional Commits  
   - **Soft Skills**: Teamwork, Creative Problem-Solving, Communication, Stress Resistance
 
